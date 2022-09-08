@@ -1,0 +1,85 @@
+{
+    "vini":[
+        {
+         "titolo":"Altamura",
+         "anno":2020,
+         "produttore":"Cavallari",
+         "denominazione":"Delle Venezie IGT",
+         "stato": "Italia",
+         "regione": "Friuli",
+         "vitigno":"Cabernet",
+         "prezzo": 50,
+         "immagine":"https://wlist.ams3.digitaloceanspaces.com/thumbnails/ViteColte/0618e9bd9f62aee0011f56a57.jpeg"
+        },
+        {
+            "titolo": "Zibibbo delle Langhe",
+            "anno": 2009,
+            "produttore": "Frati",
+            "denominazione": "Langhe DOC",
+            "stato": "Italia",
+            "regione": "Veneto",
+            "vitigno": "Zibibbo",
+            "prezzo":35,
+            "immagine": "https://wlist.ams3.digitaloceanspaces.com/thumbnails/Ezio%20Cerruti/%20Sol%20Botrytis%20Passito%20.jpeg"
+           },
+           {
+            "titolo": "Perle Millesimato",
+            "anno": 2015,
+            "produttore": "Ferrari",
+            "denominazione":"Trento DOC",
+            "stato": "Italia",
+            "regione": "Trentino",
+            "vitigno": "Chardonnay",
+            "prezzo":75,
+            "immagine":"https://th.bing.com/th/id/R.2cc4f2ecd3e0ef1b19866ccb6f6ded64?rik=NIiKkEYbr4jwzw&pid=ImgRaw&r=0"
+           },
+           {
+            "titolo": "maglen",
+            "anno": 2012,
+            "produttore":"Tremlen",
+            "denominazione":"Champagne AOC",
+            "stato": "Francia",
+            "regione": "Champagne",
+            "vitigno":"Pinot Nero",
+            "prezzo":30,
+            "immagine":"https://wlist.ams3.digitaloceanspaces.com/thumbnails/Gallio/Breganze%20Torcolato.jpeg"
+           },
+           {
+            "titolo": "Langhe Chardonnay",
+            "anno": 2021,
+            "produttore":"Villa Lanata",
+            "denominazione":"Langhe DOC",
+            "stato": "Italia",
+            "regione": "Veneto",
+            "vitigno":"Chardonnay",
+            "prezzo":35,
+            "immagine":"https://s.tannico.it/media/catalog/product/cache/1/small_image/140x140/0dc2d03fe217f8c83829496872af24a0/b/a/baglionew_1.jpg"
+           },
+           {
+            "titolo": "Lof",
+            "anno": 2019,
+            "produttore":"Busa Dal Lof",
+            "denominazione":"Friuli Doc",
+            "stato": "Italia",
+            "regione": "Friuli",
+            "vitigno":"Pinot Grigio",
+            "prezzo":40,
+            "immagine":"https://s.tannico.it/media/catalog/product/cache/1/small_image/140x140/0dc2d03fe217f8c83829496872af24a0/p/i/pinot2020.jpg"
+           },
+           {
+            "titolo": "Rosso di Sera",
+            "anno": 2020,
+            "produttore":"Frati",
+            "denominazione":"Veneto DOC",
+            "stato": "Italia",
+            "regione": "Veneto",
+            "vitigno":"Cabernet Franc",
+            "prezzo":20,
+            "immagine":"https://s.tannico.it/media/catalog/product/cache/1/small_image/140x140/0dc2d03fe217f8c83829496872af24a0/c/h/chardo_20.jpg"
+           }
+    ] 
+
+}
+
+
+
